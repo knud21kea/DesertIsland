@@ -34,8 +34,8 @@ public class Main {
         System.out.printf("%n%2s %-11s %2s %-16s %s%n", "Id", "Username", "Opt", "Object", "Total");
 
         //data to generate up to 100 different usernames, with alternatives that make different choices
-        //String[] digitName = {"Nul", "En", "To", "Tre", "Fire", "Fem", "Seks", "Syv", "Otte", "Ni"};
-        String[] digitName = {"Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+        String[] digitName = {"Nul", "En", "To", "Tre", "Fire", "Fem", "Seks", "Syv", "Otte", "Ni"};
+        //String[] digitName = {"Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
 
         //List of selectable objects and how many times they are chosen by a user
         String[] objectName = {"Knife", "Fishing net", "Box of matches", "Hammock", "Bug spray", "Sunblock", "Inflatable raft", "Flashlight", "Spear", "Satellite phone"};
